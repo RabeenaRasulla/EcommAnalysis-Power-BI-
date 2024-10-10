@@ -38,7 +38,9 @@ Excel/CSV Files: Source data formats for importing into Power BI.
 Codebase:
 
 
-Data file  (https://github.com/RabeenaRasulla/EcommAnalysis-Power-BI-/commit/baeabacbd59a974d8f167c6d204bc5c96024ebd5)
+Data file:  (https://github.com/RabeenaRasulla/EcommAnalysis-Power-BI-/commit/baeabacbd59a974d8f167c6d204bc5c96024ebd5)
+
+power Bi:   (https://github.com/RabeenaRasulla/EcommAnalysis-Power-BI-/blob/main/Screenshot%20(34).png)
 
 
 Documentation on data preparation and analysis process
